@@ -1,0 +1,18 @@
+D:\Net\Basic game\bin\Debug\Basic game.exe.config
+D:\Net\Basic game\bin\Debug\Basic game.exe
+D:\Net\Basic game\bin\Debug\Basic game.pdb
+D:\Net\Basic game\obj\Debug\Basic game.csproj.AssemblyReference.cache
+D:\Net\Basic game\obj\Debug\Basic game.csproj.SuggestedBindingRedirects.cache
+D:\Net\Basic game\obj\Debug\Basic_game.Form1.resources
+D:\Net\Basic game\obj\Debug\Basic_game.Properties.Resources.resources
+D:\Net\Basic game\obj\Debug\Basic game.csproj.GenerateResource.cache
+D:\Net\Basic game\obj\Debug\Basic game.csproj.CoreCompileInputs.cache
+D:\Net\Basic game\obj\Debug\Basic game.exe
+D:\Net\Basic game\obj\Debug\Basic game.pdb
+D:\Net\Basic game\obj\Debug\Basic_game.Form2.resources
+D:\Net\Basic game\obj\Debug\Basic_game.BatDau.resources
+D:\Net\Basic game\obj\Debug\Interop.WMPLib.dll
+D:\Net\Basic game\obj\Debug\Basic game.csproj.ResolveComReference.cache
+D:\Net\Basic game\bin\Debug\Interop.WMPLib.dll
+D:\Net\Basic game\bin\Debug\AxInterop.WMPLib.dll
+D:\Net\Basic game\obj\Debug\AxInterop.WMPLib.dll
